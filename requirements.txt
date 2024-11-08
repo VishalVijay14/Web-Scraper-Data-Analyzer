@@ -1,0 +1,6 @@
+# listing packages
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
